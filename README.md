@@ -34,7 +34,7 @@ Estimated time to complete core lab exercise: **120 min**
 
 ### Solution code
 
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/react-state-management-lab-solution)
+🏁 [Solution code](https://github.com/ga-curriculum/react-state-management-lab-solution)
 
 ### Course landing pages
 
