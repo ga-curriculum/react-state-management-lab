@@ -29,7 +29,7 @@ Follow these steps to complete the exercise. Keep all your code in the `App.jsx`
        price: 12,
        strength: 6,
        agility: 4,
-       img: 'https://pages.git.generalassemb.ly/modular-curriculum-all-courses/react-state-management-lab/assets/0c2d6b.png',
+       img: 'https://ga-curriculum.github.io/react-state-management-lab/assets/0c2d6b.png',
      },
      {
        id: 2,
@@ -37,7 +37,7 @@ Follow these steps to complete the exercise. Keep all your code in the `App.jsx`
        price: 10,
        strength: 5,
        agility: 5,
-       img: 'https://pages.git.generalassemb.ly/modular-curriculum-all-courses/react-state-management-lab/assets/033a16.png',
+       img: 'https://ga-curriculum.github.io/react-state-management-lab/assets/033a16.png',
      },
      {
        id: 3,
@@ -45,7 +45,7 @@ Follow these steps to complete the exercise. Keep all your code in the `App.jsx`
        price: 18,
        strength: 7,
        agility: 8,
-       img: 'https://pages.git.generalassemb.ly/modular-curriculum-all-courses/react-state-management-lab/assets/262c36.png',
+       img: 'https://ga-curriculum.github.io/react-state-management-lab/assets/262c36.png',
      },
      {
        id: 4,
@@ -53,7 +53,7 @@ Follow these steps to complete the exercise. Keep all your code in the `App.jsx`
        price: 14,
        strength: 7,
        agility: 6,
-       img: 'https://pages.git.generalassemb.ly/modular-curriculum-all-courses/react-state-management-lab/assets/3c1e70.png',
+       img: 'https://ga-curriculum.github.io/react-state-management-lab/assets/3c1e70.png',
      },
      {
        id: 5,
@@ -61,7 +61,7 @@ Follow these steps to complete the exercise. Keep all your code in the `App.jsx`
        price: 20,
        strength: 6,
        agility: 8,
-       img: 'https://pages.git.generalassemb.ly/modular-curriculum-all-courses/react-state-management-lab/assets/4b2900.png',
+       img: 'https://ga-curriculum.github.io/react-state-management-lab/assets/4b2900.png',
      },
      {
        id: 6,
@@ -69,7 +69,7 @@ Follow these steps to complete the exercise. Keep all your code in the `App.jsx`
        price: 15,
        strength: 5,
        agility: 7,
-       img: 'https://pages.git.generalassemb.ly/modular-curriculum-all-courses/react-state-management-lab/assets/5a1e02.png',
+       img: 'https://ga-curriculum.github.io/react-state-management-lab/assets/5a1e02.png',
      },
      {
        id: 7,
@@ -77,7 +77,7 @@ Follow these steps to complete the exercise. Keep all your code in the `App.jsx`
        price: 16,
        strength: 6,
        agility: 5,
-       img: 'https://pages.git.generalassemb.ly/modular-curriculum-all-courses/react-state-management-lab/assets/5e103e.png',
+       img: 'https://ga-curriculum.github.io/react-state-management-lab/assets/5e103e.png',
      },
      {
        id: 8,
@@ -85,7 +85,7 @@ Follow these steps to complete the exercise. Keep all your code in the `App.jsx`
        price: 11,
        strength: 8,
        agility: 3,
-       img: 'https://pages.git.generalassemb.ly/modular-curriculum-all-courses/react-state-management-lab/assets/67060c.png',
+       img: 'https://ga-curriculum.github.io/react-state-management-lab/assets/67060c.png',
      },
      {
        id: 9,
@@ -93,7 +93,7 @@ Follow these steps to complete the exercise. Keep all your code in the `App.jsx`
        price: 17,
        strength: 5,
        agility: 9,
-       img: 'https://pages.git.generalassemb.ly/modular-curriculum-all-courses/react-state-management-lab/assets/ac3220.png',
+       img: 'https://ga-curriculum.github.io/react-state-management-lab/assets/ac3220.png',
      },
      {
        id: 10,
@@ -101,7 +101,7 @@ Follow these steps to complete the exercise. Keep all your code in the `App.jsx`
        price: 22,
        strength: 7,
        agility: 6,
-       img: 'https://pages.git.generalassemb.ly/modular-curriculum-all-courses/react-state-management-lab/assets/e41f26.png',
+       img: 'https://ga-curriculum.github.io/react-state-management-lab/assets/e41f26.png',
      },
    ]
    ```
